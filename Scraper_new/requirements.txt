@@ -1,0 +1,9 @@
+nltk
+sklearn
+numpy
+selenium
+validator_collection
+tldextract
+screeninfo
+gitpython
+wget
