@@ -1,6 +1,6 @@
-This repository is part of a project from <href="https://mediadata.webs.upv.es/">MediaData</href>
+This repository is part of a project from <a href="https://mediadata.webs.upv.es/">MediaData</a>
 
-<href="https://github.com/mediadataes/gif">MediaData/gif</href> is meant to be used to download the top n trending gifs from various sites
+<a href="https://github.com/mediadataes/gif">MediaData/gif</a> is meant to be used to download the top n trending gifs from various sites
 
 ## REQUIREMENTS
 
@@ -23,7 +23,7 @@ Where:
 As results the program will [over]write a file called results.json that can be found in the Scraper_new folder. This file should contain all gifs information formatted using JSON (identation 2 spaces).
 
 
-### SETUP
+## SETUP
 
 Go to Scraper_new folder
 Install all packages under requirements.txt
@@ -38,9 +38,15 @@ python3 setup.py
 
 ## LIBRARIES
 
-<href="https://github.com/gitpython-developers/GitPython">GitPython</href>
-<href="https://github.com/saisua/Scraper2">Scraper2</href>
-<href="https://www.selenium.dev/">Selenium</href>
-<href="https://github.com/john-kurkowski/tldextract">tldextract</href>
-<href="https://github.com/insightindustry/validator-collection/">validatir-collection</href>
-<href="https://bitbucket.org/techtonik/python-wget/src/default/">wget</href>
+<a href="https://github.com/gitpython-developers/GitPython">GitPython</a>
+<hr>
+<a href="https://github.com/saisua/Scraper2">Scraper2</a>
+<hr>
+<a href="https://www.selenium.dev/">Selenium</a>
+<hr>
+<a href="https://github.com/john-kurkowski/tldextract">tldextract</a>
+<hr>
+<a href="https://github.com/insightindustry/validator-collection/">validatir-collection</a>
+<hr>
+<a href="https://bitbucket.org/techtonik/python-wget/src/default/">wget</a>
+<hr>
