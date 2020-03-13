@@ -40,6 +40,7 @@ Install all packages under requirements.txt
 
 run setup.py
 
+<hr>
 
 : code example :
 
@@ -50,7 +51,7 @@ python3 -m pip install -r requirements.txt
 
 python3 setup.py
 
-
+<hr>
 
 ## LIBRARIES
 
