@@ -10,6 +10,7 @@ This repository is part of a project from <a href="https://mediadata.webs.upv.es
 Python3 (only tested on Python3.7)
 
 Note: it should run on any OS, but it may need to be run in only one process
+
 Note2: Tested on Linux
 
 
@@ -20,6 +21,7 @@ Note2: Tested on Linux
 $ python3 Gifs.py $number_process
 
 Where: 
+
  $number_process is the number of instances of the browser that will run in parallel. This parameter will speed up the program significantly, but it will drawback as memory usage.
 
 
@@ -27,7 +29,9 @@ Where:
 ## RESULTS
 
 
-As results the program will [over]write a file called results.json that can be found in the Scraper_new folder. This file should contain all gifs information formatted using JSON (identation 2 spaces).
+As results the program will [over]write a file called results.json that can be found in the Scraper_new folder. 
+
+This file should contain all gifs information formatted using JSON (identation 2 spaces).
 
 
 
